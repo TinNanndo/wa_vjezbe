@@ -14,6 +14,6 @@ app.listen(PORT, error => {
     if (error){
         console.error(`Greska prilikon pokretanja ${error.message}`);
     } else {
-        console.log(`Server je pokrenut na https://localhost:${PORT}`);
+        console.log(`Server je pokrenut na http://localhost:${PORT}`);
     }
 });
