@@ -1,0 +1,5 @@
+[
+    {"id": "1", "ime": "ivo", "prezime": "ivic", "godine_staza": "10", "pozicija": "direktr"},
+    {"id": "2", "ime": "mate", "prezime": "matic", "godine_staza": "20", "pozicija": "dizajner"},
+    {"id": "3", "ime": "lovre", "prezime": "lovric", "godine_staza": "30", "pozicija": "voditelj"}
+]
