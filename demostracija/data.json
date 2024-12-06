@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "marka": "marka1",
+        "model": "model1",
+        "godina_proizvodnje": "2023",
+        "zaliha": "10",
+        "ocjena": "4"
+    },
+    {
+        "id": "2",
+        "marka": "marka2",
+        "model": "model2",
+        "godina_proizvodnje": "2023",
+        "zaliha": "10",
+        "ocjena": "4"
+    },
+    {
+        "id": "3",
+        "marka": "marka3",
+        "model": "model3",
+        "godina_proizvodnje": "2023",
+        "zaliha": "10",
+        "ocjena": "4"
+    }
+    
+]
