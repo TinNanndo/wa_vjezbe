@@ -10,7 +10,7 @@
         </div>
         <!-- Task Actions -->
         <div class="flex space-x-2">
-            <button class="bg-green-500 text-white px-3 py-1 rounded-md hover:bg-green-600">
+            <button @click="zavrsiZadatak()" class="bg-green-500 text-white px-3 py-1 rounded-md hover:bg-green-600">
               Dovršeno
             </button>
             <button
@@ -23,7 +23,10 @@
 
 <script setup>
 import Tag from '../components/Tag.vue';
-import { onMounted } from 'vue';
+
+async function zavrsiZadatak() {
+    console.log('Stisnuto');
+}
 
 defineProps({
     id: String,

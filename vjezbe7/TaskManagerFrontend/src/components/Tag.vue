@@ -10,7 +10,7 @@ defineProps({
 let tagMapping = {
     "hitno" : "bg-red-100 font-bold",
     "faks" : "bg-blue-100",
-    "polako" : "bg-green-100"
+    "pomalo" : "bg-green-100"
 }
 
 </script>
